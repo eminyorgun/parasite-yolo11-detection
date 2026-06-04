@@ -2,3 +2,4 @@ data/
 runs/
 *.pt
 .DS_Store
+notebooks/.ipynb_checkpoints/
