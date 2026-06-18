@@ -2,6 +2,8 @@
 
 This project fine-tunes YOLO11 for parasite object detection using a custom 8-class dataset. The workflow focuses on dataset quality, reproducible baseline training, validation, and controlled model improvement.
 
+Kaggle Link: https://www.kaggle.com/code/eminyorgun/parasite-yolo11-detection
+
 ## Project Goals
 
 * Audit the dataset before training
